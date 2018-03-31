@@ -8,5 +8,6 @@ public class HelmrecAksi {
        j1.Harga=350;
        
        j1.Pakaihelm();
+       System.out.println(" Jumlah ="+j1.Hitungjumlah());
     }
 }
