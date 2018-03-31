@@ -6,5 +6,7 @@ public class HelmrecAksi {
        j1.Merk="NHK";
        j1.Total=2;
        j1.Harga=350;
+       
+       j1.Pakaihelm();
     }
 }
