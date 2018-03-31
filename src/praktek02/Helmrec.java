@@ -18,4 +18,8 @@ public class Helmrec {
         Jumlah= Harga*Total;
         return Jumlah;
     }
+    void Hitunghelm(){
+        System.out.println("Jumlah Adalah :"+Hitungjumlah());
+    }
+    
 }

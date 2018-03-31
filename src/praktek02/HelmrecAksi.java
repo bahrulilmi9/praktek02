@@ -9,5 +9,6 @@ public class HelmrecAksi {
        
        j1.Pakaihelm();
        System.out.println(" Jumlah ="+j1.Hitungjumlah());
+       j1.Hitunghelm();
     }
 }
