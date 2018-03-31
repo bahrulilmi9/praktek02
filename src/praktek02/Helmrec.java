@@ -10,6 +10,13 @@ public class Helmrec {
         Total=2;
         Harga=380;
     }
+
+    public Helmrec(String Merk, double Total, double Harga) {
+        this.Merk = Merk;
+        this.Total = Total;
+        this.Harga = Harga;
+    }
+    
     
     
     void Pakaihelm(){
