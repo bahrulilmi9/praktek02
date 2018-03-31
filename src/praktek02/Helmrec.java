@@ -4,6 +4,13 @@ public class Helmrec {
     String Merk;
     double Total;
     double Harga;
+
+    public Helmrec() {
+        Merk="INK";
+        Total=2;
+        Harga=380;
+    }
+    
     
     void Pakaihelm(){
         System.out.println("+------------------");
